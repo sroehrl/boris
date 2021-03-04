@@ -1,0 +1,14 @@
+{
+    "name": "stefa/boris",
+    "description": "anything",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "neoan",
+            "email": "stefan.roehrl@gmail.com"
+        }
+    ],
+    "require": {
+        "neoan3-apps/template": "^1.1"
+    }
+}
